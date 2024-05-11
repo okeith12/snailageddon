@@ -1,0 +1,175 @@
+<mxfile host="app.diagrams.net" modified="2024-05-11T03:31:09.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="YW-AQbnZpbTye_VsksQ-" version="24.4.0" type="github">
+  <diagram name="Page-1" id="1684HH7hZMCNmcsj_P3p">
+    <mxGraphModel dx="318" dy="979" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wP2roAauo5KxFpV0kZZE-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-2" target="wP2roAauo5KxFpV0kZZE-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-2" value="Battle&#xa;- start_game&#xa;-turn_management&#xa;-win/lose condition" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="277" y="40" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-3" value="SlotHandler&#xa;- add to slot&#xa;- remove from slot&#xa;- check for empty slots" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="187" width="138" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-4" value="UI&#xa;-cards&#xa;-health&#xa;-tooltips&#xa;-power..." style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="199" y="163" width="88" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-42" target="wP2roAauo5KxFpV0kZZE-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="364" y="388" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-42" target="wP2roAauo5KxFpV0kZZE-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="296" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.813;exitY=1.067;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-42" target="wP2roAauo5KxFpV0kZZE-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-42" target="wP2roAauo5KxFpV0kZZE-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136" y="438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-42" target="wP2roAauo5KxFpV0kZZE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-43" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-9" target="wP2roAauo5KxFpV0kZZE-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-9" value="CardHandler&#xa;- card management&#xa;- decide what deck to use " style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="160" width="97" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-11" target="wP2roAauo5KxFpV0kZZE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-11" value="PlayerCard&#xa;- player turn&#xa;- player move&#xa;- player attack" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="464.5" y="157" width="83" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.006133497807017544;exitY=0.6981061018578357;entryX=0.4985996462264151;entryY=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-2" target="wP2roAauo5KxFpV0kZZE-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.03096690293441926;exitY=1;entryX=0.49696828358208955;entryY=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-2" target="wP2roAauo5KxFpV0kZZE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="239" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9726652242585632;exitY=1;entryX=0.4990832270408163;entryY=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-2" target="wP2roAauo5KxFpV0kZZE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="372" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9974986293859649;exitY=0.6741607592795902;entryX=0.5000558035714285;entryY=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-2" target="wP2roAauo5KxFpV0kZZE-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-16" value="Player&#xa;- display armor&#xa;-display health&#xa;- take damage&#xa;etc...&#xa;- special power" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="461" y="258" width="90" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-18" target="wP2roAauo5KxFpV0kZZE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-18" value="Trap Card&#xa;- hurt any card " style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="443" width="97" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-20" target="wP2roAauo5KxFpV0kZZE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-20" value="Item Card&#xa;- heal/protect&#xa;player card ONLY" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="441" width="104" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-21" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-22" target="wP2roAauo5KxFpV0kZZE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-22" value="Snail Card&#xa;- hurt player card&#xa;- focus on player card&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="428" y="443" width="97" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="wP2roAauo5KxFpV0kZZE-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="667" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-24" value="when destroyed turn into" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="wP2roAauo5KxFpV0kZZE-23">
+          <mxGeometry x="-0.11" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-25" value="Item&lt;div&gt;- increase health/armor&lt;/div&gt;&lt;div&gt;- display effect&amp;nbsp;&lt;/div&gt;&lt;div&gt;- give heal visually&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="177" y="657" width="119" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=1.033;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-28" target="wP2roAauo5KxFpV0kZZE-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="358" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-27" value="when destroyed turn into" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="wP2roAauo5KxFpV0kZZE-26">
+          <mxGeometry x="0.2174" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-28" value="Trap&#xa;- decrease health/armor&#xa;- display effect&#xa;- give damage" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="309" y="649" width="97" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-29" value="Snail &#xa;- decrease player health&#xa;- display health&#xa;- take damage&#xa;- basic attack&#xa;- special power" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="426" y="649" width="102" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-31" target="wP2roAauo5KxFpV0kZZE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-31" value="Shop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="40" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-31" target="wP2roAauo5KxFpV0kZZE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-33" value="- Buy Boosters&lt;div&gt;Before Game&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="220" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-35" target="wP2roAauo5KxFpV0kZZE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-35" value="Coin Card&#xa;- in game currency&#xa;- give player money&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="57" y="441" width="91" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-36" value="Coin&#xa;- used for boosters&#xa;- unlock new character&#xa;&#xa;- dropped when enemy/item is down from player/trap" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="831" width="91" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.011;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wP2roAauo5KxFpV0kZZE-29" target="wP2roAauo5KxFpV0kZZE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-38" value="when destroyed turn into" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="wP2roAauo5KxFpV0kZZE-37">
+          <mxGeometry x="-0.1304" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-39" value="Booster Card&#xa;-  enhance player till death&#xa;&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="443" width="97" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-41" value="LocationManager&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="606" y="-77" width="105" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="wP2roAauo5KxFpV0kZZE-42" value="&lt;div&gt;Decks&lt;/div&gt;&lt;div&gt;- decide what type of cards &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="272" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
